@@ -121,7 +121,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold mb-4">Testimonials From Real Students</h2>
         <div className="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
           <div className="bg-white shadow-md rounded-lg p-4">
-            <p>“Vastu Shikhar ki class ne meri zindagi badal di.”</p>
+            <p>“XSOL Vastu Consultant ki class ne meri zindagi badal di.”</p>
             <p className="mt-2 font-semibold">– Ajit Giri</p>
           </div>
           <div className="bg-white shadow-md rounded-lg p-4">
@@ -147,7 +147,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="bg-[#1c1c2c] text-white py-6 text-center text-sm">
-        © 2025 Vastu Shikhar | All Rights Reserved by XSOL DATA SYSTEM PVT LTD
+        © 2025 XSOL Vastu Consultant | All Rights Reserved by XSOL DATA SYSTEM PVT LTD
       </footer>
     </div>
   );
